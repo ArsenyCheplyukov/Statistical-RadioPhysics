@@ -1,0 +1,7 @@
+700 Hz
+0.6
+length 1s
+
+2000 Hz
+0.7
+length 1s
